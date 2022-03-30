@@ -1,0 +1,10 @@
+C:\Users\kisin\Desktop\CSharpCourse\AdoNetDemo\bin\Debug\AdoNetDemo.exe.config
+C:\Users\kisin\Desktop\CSharpCourse\AdoNetDemo\bin\Debug\AdoNetDemo.exe
+C:\Users\kisin\Desktop\CSharpCourse\AdoNetDemo\bin\Debug\AdoNetDemo.pdb
+C:\Users\kisin\Desktop\CSharpCourse\AdoNetDemo\obj\Debug\AdoNetDemo.csprojAssemblyReference.cache
+C:\Users\kisin\Desktop\CSharpCourse\AdoNetDemo\obj\Debug\AdoNetDemo.Properties.Resources.resources
+C:\Users\kisin\Desktop\CSharpCourse\AdoNetDemo\obj\Debug\AdoNetDemo.csproj.GenerateResource.cache
+C:\Users\kisin\Desktop\CSharpCourse\AdoNetDemo\obj\Debug\AdoNetDemo.csproj.CoreCompileInputs.cache
+C:\Users\kisin\Desktop\CSharpCourse\AdoNetDemo\obj\Debug\AdoNetDemo.exe
+C:\Users\kisin\Desktop\CSharpCourse\AdoNetDemo\obj\Debug\AdoNetDemo.pdb
+C:\Users\kisin\Desktop\CSharpCourse\AdoNetDemo\obj\Debug\AdoNetDemo.btnAdd.resources
