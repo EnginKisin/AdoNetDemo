@@ -1,2 +1,2 @@
 # AdoNetDemo
-ADO.NET ile veritabanına bağlanarak data manipülasyonu yapmak.
+ADO.NET, CRUD Operations
